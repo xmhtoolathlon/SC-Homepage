@@ -7,69 +7,69 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at [HKUST NLP Group](https://github.com/HKUST-NLP), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am a second-year PhD candidate at [MIT CSAIL Robotics Group](https://www.csail.mit.edu/), supervised by [Professor David Miller](https://example.mit.edu/). I graduated from Stanford University in June 2023. My research focuses on robotic manipulation and human-robot interaction.
 
 ## Research Interests
 
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
+- Robotic Manipulation and Grasping
+- Human-Robot Collaboration Systems
+- Reinforcement Learning for Robotics
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 - Present)  
-  Hong Kong University of Science and Technology (HKUST)
+- **Ph.D. in Electrical Engineering and Computer Science** (2023 - Present)  
+  Massachusetts Institute of Technology (MIT)
 
-- **B.Eng.** (2020 - 2024)  
-  Shanghai Jiao Tong University (SJTU)
+- **B.S. in Computer Science** (2019 - 2023)  
+  Stanford University
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX (February 2025 - Present)
+- **Research Intern**, Boston Dynamics AI Institute (May 2025 - Present)
 
-- **Research Intern**, Tencent WXG (June 2024 - September 2024)  
-  Advised by Zifei Shan
+- **Research Intern**, NVIDIA Robotics Lab (June 2024 - September 2024)  
+  Advised by Dr. James Park
 
-- **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)  
-  Advised by Prof. Yu Cheng
+- **Research Intern**, Google DeepMind Robotics (June 2022 - September 2022)  
+  Advised by Dr. Emily Watson
 
 ## Publications
 
 ### First Author
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+- **DexGrasp: Learning Dexterous Manipulation for Complex Object Grasping**  
+  **Sarah Chen**, Michael Torres, Kevin Liu, Amanda Ross, David Miller  
   *Arxiv, 2025*
 
-- **On the Perception Bottleneck of VLMs for Chart Understanding**  
-  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+- **HRI-Adapt: Adaptive Human-Robot Interaction via Real-time Intent Prediction**  
+  **Sarah Chen**, Robert Kim, Lisa Wang, David Miller  
   *Arxiv, 2025*
 
-- **On the Universal Truthfulness Hyperplane Inside LLMs**  
-  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
-  *EMNLP 2024*
+- **SafeManip: Safety-Aware Manipulation in Unstructured Environments**  
+  **Sarah Chen**, Jason Lee, David Miller  
+  *CoRL 2024*
 
 ### Co-authored
 
-- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
-  Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
-  *ICML 2024*
+- **RoboTact: Tactile Sensing for Robust Robotic Manipulation**  
+  Michael Torres, Sarah Chen, Kevin Liu, James Park, David Miller  
+  *ICRA 2024*
 
-- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
-  *NeurIPS 2023*
+- **MultiAgent-Coord: Multi-Agent Coordination for Warehouse Robotics**  
+  Amanda Ross, Jason Lee, Sarah Chen, Robert Kim, Emily Watson, David Miller  
+  *RSS 2023*
 
-- **Composing Parameter-Efficient Modules with Arithmetic Operations**  
-  Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
-  *NeurIPS 2023*
+- **SimToReal: Bridging Simulation and Reality for Robotic Learning**  
+  Kevin Liu, Michael Torres, Sarah Chen, David Miller  
+  *RSS 2023*
 
 ## Awards
 
-- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+- NSF Graduate Research Fellowship, National Science Foundation
 
 ## Contact
 
-- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email**: [schen@mit.edu](mailto:schen@mit.edu)
+- **GitHub**: [sarahchen-robotics](https://github.com/sarahchen-robotics)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=EXAMPLE123)
+- **X (Twitter)**: [@sarah_robotics](https://twitter.com/sarah_robotics)
