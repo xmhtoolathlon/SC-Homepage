@@ -1,0 +1,5 @@
+# Navigation menu - only showing About and Publications
+
+main:
+  - title: "Publications"
+    url: /publications/
